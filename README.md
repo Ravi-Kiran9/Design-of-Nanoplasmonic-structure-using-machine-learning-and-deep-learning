@@ -1,4 +1,5 @@
 # Design-of-Nanoplasmonic-structure-using-machine-learning
+This project is still under process. The above code file is just a very small fraction of my work. The final work contails DL model with varying more parameters.
 The nanoplasmonic structure design is predicted using ML
 
 The geometry taken into consideration is height H of the nanoplasmonic structure and Grating period.
